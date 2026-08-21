@@ -40,7 +40,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">📊 GitHub StatsQF</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
   <img
