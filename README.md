@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="175" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="175" src="./assets/anime.gif"  />
 
 ###
 
