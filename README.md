@@ -48,6 +48,11 @@
     height="180"
     alt="GitHub Stats"
   />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 ###
