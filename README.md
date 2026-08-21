@@ -42,6 +42,14 @@
 
 <h2 data-importer="text" align="left">📊 GitHub StatsQF</h2>
 
+<div align="left">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Stats"
+  />
+</div>
+
 ###
 
 <h2 data-importer="text" align="left">🎮 Contribution Graph</h2>
