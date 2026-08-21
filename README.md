@@ -8,10 +8,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="175" src="./assets/anime.gif"  />
-
-###
-
 <h3 data-importer="text" align="left">Back-End Development Student</h3>
 
 ###
