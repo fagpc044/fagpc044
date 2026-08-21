@@ -23,6 +23,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=fagpc044&layout=compact&langs_count=5&theme=discord_old_blurple
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Commit Stats
         run: |
           git config user.name "github-actions[bot]"
